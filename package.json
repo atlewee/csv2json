@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vite": "^2.9.6",
+    "vite-plugin-elm": "^2.6.1"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
